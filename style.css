@@ -57,7 +57,7 @@ nav ul {
   }
 .container{
   display:flex;
-     
+  padding: 20px;   
   }
 
  #img-salao {
